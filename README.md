@@ -1,3 +1,4 @@
+MODELO PARA CONSTRUCAO DO README.md  
 •	Nome do Projeto  
 •	Descrição  
 •	Disclaimer ou alertas/avisos  
