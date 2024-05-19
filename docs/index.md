@@ -1,22 +1,21 @@
 ---
 hide:
   - navigation
+  #- toc # table of contents - menu da direita
 ---
 
 # Projeto Engenharia de Dados
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Trabalho desenvolvido para a disciplina de Engenharia de dados do Curso de Engenharia da Software da UNISATC.
+A proposta do projeto e desenvolver uma pipeline de engenharia de dados...
 
-## Commands
+## Principais comandos do MkDocs
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `mkdocs new [dir-name]` - Cria um novo projeto.
+* `mkdocs serve` - Inicia o preview das paginas *.md da pastas /docs.
+* `mkdocs build` - Cria a estrutura de paginas web no padrao hmtl, css, js.
+* `mkdocs gh-deploy` - Publica as paginas criadas pelo 'mkdocs build' na estrutura do github pages.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Documentacao para referencia e estudo
+[https://tutorial-mkdocs.systemhealthlab.com/flavoured_markdown.html](https://tutorial-mkdocs.systemhealthlab.com/flavoured_markdown.html)  
+[https://squidfunk.github.io/mkdocs-material/reference/](https://squidfunk.github.io/mkdocs-material/reference/)

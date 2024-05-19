@@ -1,5 +1,5 @@
-site_name: Projeto Engenharia de Dados
-site_description: Site do projeto de Engenharia de Dados da SATC
+site_name: <nome do projeto>
+site_description: Documentacao do projeto <nome do projeto>
 site_author: Jorge Luiz da Silva
 site_url: https://jlsilva01.github.io/projeto-ed-satc
 site_favicon: images/favicon.png
@@ -19,7 +19,8 @@ nav:
 theme:
   name: material
   palette:
-    primary: red
+    primary: blue
+    accent: light-blue
   language: pt
   features:
     - navigation.footer
@@ -48,7 +49,7 @@ extra:
       link: https://jl2tech.com
   generator: false
 
-copyright: Copyright &copy; 2024 - <a href="https://jl2tech.com" target="_blank"><b>Jorge Luiz da Silva</b></a> - Todos os direitos reservados.
+copyright: Copyright &copy; 2024 - <a href="#" target="_blank"><b>Jorge Luiz da Silva</b></a> - Todos os direitos reservados.
 
 extra_css:
   - stylesheets/extra.css
@@ -60,3 +61,18 @@ plugins:
   - search
   - mkdocstrings:
       default_handler: python
+
+markdown_extensions: 
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
