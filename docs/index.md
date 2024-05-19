@@ -1,4 +1,9 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+---
+
+# Projeto Engenharia de Dados
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
