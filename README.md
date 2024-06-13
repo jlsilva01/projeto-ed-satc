@@ -89,7 +89,7 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 
 ## Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE](https://github.com/jlsilva01/LICENSE) para detalhes.
 
 ## Referências
 
