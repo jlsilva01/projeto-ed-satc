@@ -1,5 +1,7 @@
 # Título do projeto
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Um parágrafo da descrição do projeto vai aqui
 
 ## Começando
