@@ -1,10 +1,10 @@
 # Título do projeto
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jlsilva01/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/jlsilva01/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/projeto-ed-satc/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/projeto-ed-satc/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jlsilva01/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jlsilva01/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/projeto-ed-satc/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/projeto-ed-satc/README-template?style=for-the-badge)
 
 Um parágrafo da descrição do projeto vai aqui
 
