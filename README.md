@@ -8,14 +8,14 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
-### Desenho de Arquitetura
+## Desenho de Arquitetura
 
 Coloqui uma imagem do seu projeto, como no exemplo abaixo:
 
 ![image](https://github.com/jlsilva01/projeto-ed-satc/assets/484662/541de6ab-03fa-49b3-a29f-dec8857360c1)
 
 
-### Pré-requisitos
+## Pré-requisitos
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
@@ -23,7 +23,7 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 Dar exemplos
 ```
 
-### Instalação
+## Instalação
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
@@ -41,19 +41,11 @@ Até finalizar
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
-## ⚙️ Executando os testes
-
-Explicar como executar os testes para seu projeto.
-
-```
-Dar exemplos
-```
-
 ## Implantação
 
 Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
-## Construído com
+## Ferramentas utilizadas
 
 Mencione as ferramentas que você usou para criar seu projeto
 
