@@ -57,7 +57,22 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## Colaboração
 
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+Por favor, leia o [COLABORACAO](https://gist.github.com/usuario/colaboracao.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+
+Se desejar publicar suas modificações em um repositório remoto no GitHub, siga estes passos:
+
+1. Crie um novo repositório vazio no GitHub.
+2. No terminal, navegue até o diretório raiz do projeto.
+3. Execute os seguintes comandos:
+
+```bash
+git remote set-url origin https://github.com/seu-usuario/nome-do-novo-repositorio.git
+git add .
+git commit -m "Adicionar minhas modificações"
+git push -u origin master
+```
+
+Isso configurará o repositório remoto e enviará suas modificações para lá.
 
 ## Versão
 
