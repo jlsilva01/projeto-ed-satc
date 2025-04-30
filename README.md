@@ -14,7 +14,21 @@ Coloqui uma imagem do seu projeto, como no exemplo abaixo:
 
 ![image](https://github.com/jlsilva01/projeto-ed-satc/assets/484662/541de6ab-03fa-49b3-a29f-dec8857360c1)
 
-## Começando
+## Pré-requisitos e ferramentas utilizadas
+
+- **Linguagem:** Python 3.11+  
+- **Framework web:** FastAPI  
+- **Servidor ASGI:** Uvicorn  
+- **Qualidade de código:** pre-commit (ruff, black, isort, flake8, mypy)  
+- **Container:** Docker  
+- **Orquestração local:** Docker Compose  
+- **Documentação:** MkDocs + mkdocstrings + mkdocs-material
+
+```
+Dar exemplos
+```
+
+## Instalação
 
 ### 1. Clonar o repositório
 
@@ -60,37 +74,6 @@ Para publicar o site estático:
 ```bash
 uv run mkdocs gh-deploy
 ```
-
-
-## Pré-requisitos
-
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
-
-## Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## Implantação
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## Ferramentas utilizadas
 
