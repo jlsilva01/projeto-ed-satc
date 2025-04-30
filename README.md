@@ -6,13 +6,76 @@
 [![Docs](https://img.shields.io/badge/docs-mkdocs-blue)](https://jlsilva01.github.io/projeto-ed-satc/)  
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Uma breve descrição do seu projeto
+Repositorio modelo para desenvolvimento do projeto final da disciplina de Engenharia de Dados do curso de Engenharia de Software da UNISATC.
 
 ## Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+### 1. Clonar o repositório
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+```bash
+git clone https://github.com/jlsilva01/projeto-ed-satc.git
+cd projeto-ed-satc
+```
+
+### 2. Instalar dependências & pre-commit
+
+```bash
+uv venv
+source .venv/bin/activate
+uv sync
+
+# instalar hooks do pre-commit
+uv run pre-commit install
+```
+
+### 3. Executar localmente
+
+```bash
+uv run uvicorn app.main:app --reload
+```
+
+Acesse a API em `http://localhost:8000` e a documentação automática em:
+- Swagger UI: `http://localhost:8000/docs`
+- ReDoc:       `http://localhost:8000/redoc`
+
+---
+
+## 🐳 Docker & Docker Compose
+
+1. **Construir a imagem**  
+    ```bash
+    docker build -t projeto-fastapi-satc .
+    ```
+
+2. **Executar com Docker**  
+   ```bash
+   docker run -d -p 8000:8000 projeto-fastapi-satc
+   ```
+
+3. **Ou usar Docker Compose**  
+   ```bash
+   docker-compose up -d
+   ```
+   - Serviço exposto em `http://localhost:8000`
+
+---
+
+## 📚 Documentação (MkDocs)
+
+Toda a documentação está em `docs/`:
+
+```bash
+uv run mkdocs build
+uv run mkdocs serve
+```
+
+Acesse o site em `http://127.0.0.1:8000`.
+
+Para publicar o site estático:
+
+```bash
+uv run mkdocs gh-deploy
+```
 
 ## Desenho de Arquitetura
 
