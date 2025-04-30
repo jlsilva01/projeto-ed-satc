@@ -1,9 +1,9 @@
 # Título do projeto
 
-[![Lint & Tests](https://img.shields.io/github/actions/workflow/status/jlsilva01/projeto-fastapi-satc/ci.yml?branch=main)](https://github.com/jlsilva01/projeto-fastapi-satc/actions)  
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen.svg)](https://github.com/jlsilva01/projeto-fastapi-satc)  
-[![Docker Pulls](https://img.shields.io/docker/pulls/jlsilva01/projeto-fastapi-satc)](https://hub.docker.com/r/jlsilva01/projeto-fastapi-satc)  
-[![Docs](https://img.shields.io/badge/docs-mkdocs-blue)](https://jlsilva01.github.io/projeto-fastapi-satc/)  
+[![Lint & Tests](https://img.shields.io/github/actions/workflow/status/jlsilva01/projeto-ed-satc/ci.yml?branch=main)](https://github.com/jlsilva01/projeto-ed-satc/actions)  
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen.svg)](https://github.com/jlsilva01/projeto-ed-satc)  
+[![Docker Pulls](https://img.shields.io/docker/pulls/jlsilva01/projeto-ed-satc)](https://hub.docker.com/r/jlsilva01/projeto-ed-satc)  
+[![Docs](https://img.shields.io/badge/docs-mkdocs-blue)](https://jlsilva01.github.io/projeto-ed-satc/)  
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Descrição do seu projeto
