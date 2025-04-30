@@ -44,9 +44,7 @@ Acesse a API em `http://localhost:8000` e a documentação automática em:
 - Swagger UI: `http://localhost:8000/docs`
 - ReDoc:       `http://localhost:8000/redoc`
 
----
-
-## 📚 Documentação (MkDocs)
+## Documentação (MkDocs)
 
 Toda a documentação está em `docs/`:
 
@@ -104,22 +102,15 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## Colaboração
 
-Por favor, leia o [COLABORACAO](https://gist.github.com/usuario/colaboracao.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+1. Abra uma **issue** para discutir sua feature ou bug.  
+2. Crie um **branch**:  
 
-Se desejar publicar suas modificações em um repositório remoto no GitHub, siga estes passos:
-
-1. Crie um novo repositório vazio no GitHub.
-2. No terminal, navegue até o diretório raiz do projeto.
-3. Execute os seguintes comandos:
-
-```bash
-git remote set-url origin https://github.com/seu-usuario/nome-do-novo-repositorio.git
-git add .
-git commit -m "Adicionar minhas modificações"
-git push -u origin master
-```
-
-Isso configurará o repositório remoto e enviará suas modificações para lá.
+   ```bash
+   git checkout -b feature/nome-da-sua-feature
+   ```
+3. Faça suas alterações e **commit** seguindo o [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).  
+4. Envie um **pull request** para `main`.  
+5. Aguarde revisão e merge.
 
 ## Versão
 
