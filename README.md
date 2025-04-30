@@ -10,7 +10,7 @@ Repositorio modelo para desenvolvimento do projeto final da disciplina de Engenh
 
 ## Desenho de Arquitetura
 
-Coloqui uma imagem do seu projeto, como no exemplo abaixo:
+Coloque uma imagem do seu projeto, como no exemplo abaixo:
 
 ![image](https://github.com/jlsilva01/projeto-ed-satc/assets/484662/541de6ab-03fa-49b3-a29f-dec8857360c1)
 
