@@ -110,7 +110,7 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 
 ## Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE](https://github.com/jlsilva01/projeto-ed-satc/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE](https://github.com/jlsilva01/projeto-ed-satc/blob/main/LICENSE) para detalhes.   
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Referências
