@@ -8,6 +8,12 @@
 
 Repositorio modelo para desenvolvimento do projeto final da disciplina de Engenharia de Dados do curso de Engenharia de Software da UNISATC.
 
+## Desenho de Arquitetura
+
+Coloqui uma imagem do seu projeto, como no exemplo abaixo:
+
+![image](https://github.com/jlsilva01/projeto-ed-satc/assets/484662/541de6ab-03fa-49b3-a29f-dec8857360c1)
+
 ## Começando
 
 ### 1. Clonar o repositório
@@ -40,26 +46,6 @@ Acesse a API em `http://localhost:8000` e a documentação automática em:
 
 ---
 
-## 🐳 Docker & Docker Compose
-
-1. **Construir a imagem**  
-    ```bash
-    docker build -t projeto-fastapi-satc .
-    ```
-
-2. **Executar com Docker**  
-   ```bash
-   docker run -d -p 8000:8000 projeto-fastapi-satc
-   ```
-
-3. **Ou usar Docker Compose**  
-   ```bash
-   docker-compose up -d
-   ```
-   - Serviço exposto em `http://localhost:8000`
-
----
-
 ## 📚 Documentação (MkDocs)
 
 Toda a documentação está em `docs/`:
@@ -76,12 +62,6 @@ Para publicar o site estático:
 ```bash
 uv run mkdocs gh-deploy
 ```
-
-## Desenho de Arquitetura
-
-Coloqui uma imagem do seu projeto, como no exemplo abaixo:
-
-![image](https://github.com/jlsilva01/projeto-ed-satc/assets/484662/541de6ab-03fa-49b3-a29f-dec8857360c1)
 
 
 ## Pré-requisitos
