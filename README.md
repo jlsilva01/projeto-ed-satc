@@ -6,7 +6,7 @@
 [![Docs](https://img.shields.io/badge/docs-mkdocs-blue)](https://jlsilva01.github.io/projeto-ed-satc/)  
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Descrição do seu projeto
+Uma breve descrição do seu projeto
 
 ## Começando
 
