@@ -75,14 +75,6 @@ Para publicar o site estático:
 uv run mkdocs gh-deploy
 ```
 
-## Ferramentas utilizadas
-
-Mencione as ferramentas que você usou para criar seu projeto
-
-* Ferramenta 1 + link - Breve descrição
-* Ferramenta 2 + link - Breve descrição
-* Ferramenta 3 + link - Breve descrição
-
 ## Colaboração
 
 1. Abra uma **issue** para discutir sua feature ou bug.  
