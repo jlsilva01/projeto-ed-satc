@@ -98,7 +98,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 * **Aluno 1** - *Trabalho Inicial* - [(https://github.com/linkParaPerfil)](https://github.com/linkParaPerfil)
 * **Aluno 2** - *Documentação* - [https://github.com/linkParaPerfil](https://github.com/linkParaPerfil)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/prpjeto-ed-satc/colaboradores) que participaram deste projeto.
 
 ## Licença
 
