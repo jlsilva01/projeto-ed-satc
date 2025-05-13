@@ -98,8 +98,6 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 * **Aluno 1** - *Trabalho Inicial* - [(https://github.com/linkParaPerfil)](https://github.com/linkParaPerfil)
 * **Aluno 2** - *Documentação* - [https://github.com/linkParaPerfil](https://github.com/linkParaPerfil)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto-ed-satc/colaboradores) que participaram deste projeto.
-
 ## Licença
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE](https://github.com/jlsilva01/projeto-ed-satc/blob/main/LICENSE) para detalhes.   
