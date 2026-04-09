@@ -17,5 +17,5 @@ A proposta do projeto e desenvolver uma pipeline de engenharia de dados...
 * `mkdocs gh-deploy` - Publica as paginas criadas pelo 'mkdocs build' na estrutura do github pages.
 
 ## Documentacao para referencia e estudo
-[https://tutorial-mkdocs.systemhealthlab.com/flavoured_markdown.html](https://tutorial-mkdocs.systemhealthlab.com/flavoured_markdown.html)  
-[https://squidfunk.github.io/mkdocs-material/reference/](https://squidfunk.github.io/mkdocs-material/reference/)
+[https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/)  
+[https://www.mkdocs.org/user-guide/writing-your-docs/](https://www.mkdocs.org/user-guide/writing-your-docs/)
