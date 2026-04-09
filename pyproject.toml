@@ -18,7 +18,8 @@ blue = "^0.9.1"
 mkdocs = "^1.6.0"
 mkdocs-material = "^9.5.23"
 pymdown-extensions = "^10.8.1"
-mkdocstrings = "^0.25.1"
+mkdocstrings = "0.24.0"
+mkdocs-autorefs = "0.5.0"
 
 
 [tool.poetry.group.test.dependencies]
