@@ -89,7 +89,13 @@ uv run mkdocs gh-deploy
 
 ## Versão
 
-Fale sobre a versão e o controle de versões para o projeto. 
+Este projeto segue o [Versionamento Semântico (SemVer)](https://semver.org/lang/pt-BR/), no formato `MAJOR.MINOR.PATCH`:
+
+* **MAJOR**: mudanças incompatíveis com versões anteriores (ex.: alteração de contrato da API);
+* **MINOR**: novas funcionalidades compatíveis com versões anteriores;
+* **PATCH**: correções de bugs compatíveis com versões anteriores.
+
+As versões publicadas ficam disponíveis nas [tags](https://github.com/jlsilva01/projeto-ed-satc/tags) e [releases](https://github.com/jlsilva01/projeto-ed-satc/releases) deste repositório.
 
 ## Autores
 
